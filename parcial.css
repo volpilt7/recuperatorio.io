@@ -1,0 +1,57 @@
+body{
+    background-image: url(practicaimagenes/fondo\ viajes\ 2.jpg);
+    padding: 5px;
+    color:rgb(0, 0, 0);
+    font-weight: bolder;
+    font-size: larger;
+}
+
+.header{
+    display: flex; 
+}
+.links {
+    justify-content: space-between;
+}
+.section{
+    display: block;
+}
+.america{
+    float: left;
+    display: flex;
+    text-align: justify;
+}
+.img2{
+    float: right;
+    display: flex;
+    text-align:justify  ;
+}
+
+.redes{
+display: flex;
+justify-content: space-between;
+}
+.formulario{
+    display: block, list-item;
+    justify-content:space-evenly;
+    
+}
+.formulariore{
+    display:flex;
+}
+.requerido{
+    color: darkred;
+}
+.multimedia1{
+    display: flex;
+    justify-content: left;
+    text-align: justify;
+}
+.imagenesfinales{
+    display: flex;
+    justify-content: space-between;
+}
+.titulomulti{
+    display: flex;
+    justify-content: center;
+      align-items: center;
+}
